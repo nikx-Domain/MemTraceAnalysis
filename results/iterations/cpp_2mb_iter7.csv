@@ -1,0 +1,6 @@
+# started on Fri May 15 20:53:44 2026
+
+11931,,dTLB-load-misses,58300461,100.00,,
+392,,page-faults,58300461,100.00,,
+23894762,,instructions,58300461,100.00,0.11,insn per cycle
+219059794,,cycles,58300461,100.00,,
